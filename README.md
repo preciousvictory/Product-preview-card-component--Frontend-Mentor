@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [View solution URL here](https://github.com/preciousvictory/Product-preview-card-component--Frontend-Mentor)
+- Live Site URL: [View live site URL here](https://your-live-site-url.com)
 
 ## My process
 
