@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [View solution URL here](https://github.com/preciousvictory/Product-preview-card-component--Frontend-Mentor)
-- Live Site URL: [View live site URL here](https://your-live-site-url.com)
+- Live Site URL: [View live site URL here](https://preciousvictory.github.io/Product-preview-card-component--Frontend-Mentor/)
 
 ## My process
 
